@@ -22,16 +22,16 @@ class MakineOgrenimi:
         X, y = self.verileri_getir()
 
         # Verileri eğitim ve test setlerine bölelim
-        X_egitim, X_test, y_egitim, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
         # Verileri ölçeklendirme
         scaler = StandardScaler()
-        X_egitim = scaler.fit_transform(X_egitim)
+        X_train = scaler.fit_transform(X_train)
         X_test = scaler.transform(X_test)
 
         # Model oluşturma
         model = LogisticRegression()
-        model.fit(X_egitim, y_egitim)
+        model.fit(X_train, y_train)
 
         # Modelin performansını değerlendirme
         tahminler = model.predict(X_test)
