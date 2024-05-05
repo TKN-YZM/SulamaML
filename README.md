@@ -6,7 +6,7 @@ Ayrıca, makine öğrenmesi algoritmaları kullanılarak sistem akıllı hale ge
 
 <div align="center">
   <img  src="https://github.com/TKN-YZM/SulamaML/blob/main/czm.jpg" alt="Proje Çizim">
-  <img  src="https://github.com/TKN-YZM/KlimaML/blob/master/Z2.jpg" alt="Proje Kod">
+  <img  src="https://github.com/TKN-YZM/SulamaML/blob/main/czm2.jpg" alt="Proje Kod">
 </div>
 
 ## Kurulum
