@@ -10,13 +10,3 @@ Ayrıca, makine öğrenmesi algoritmaları kullanılarak sistem akıllı hale ge
 2. Gerekli bağımlılıkları yüklemek için `pip install -r requirements.txt` komutunu çalıştırın.
 3. Sensörlerin doğru şekilde bağlandığından emin olun.
 4. Uygulamayı başlatmak için `python main.py` komutunu çalıştırın.
-
-Detaylı kullanım kılavuzu için lütfen [Dokümantasyon](docs/) bölümüne göz atın.
-
-## Katkı
-
-Katılımınızı bekliyoruz! Lütfen katkıda bulunmak için GitHub'da bir sorun açın veya bir çekme isteği gönderin.
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
