@@ -12,7 +12,7 @@ Ayrıca, makine öğrenmesi algoritmaları kullanılarak sistem akıllı hale ge
 -Veri Tabanı (SQL)
 
 ## Projenin çalışma mantığı
-Bu projenin çalışma mantığı oldukça basittir. Öncelikle hava durumu, sıcaklık, nem ve toprak nem oranı gibi önemli verileri sürekli olarak toplar. Bu veriler, geçmiş verilere dayanarak eğitilmiş olan makine öğrenmesi algoritmalarıyla işlenir. Bu algoritmalar, geçmiş veri setlerini analiz eder ve optimal sulama zamanını, süresini ve miktarını belirlemek için karmaşık bir model oluşturur. Bu model doğrultusunda sulama işlemleri otomatik hale gelir.
+ Öncelikle hava durumu, sıcaklık, nem ve toprak nem oranı gibi önemli verileri sürekli olarak toplanır. Bu veriler, geçmiş verilere dayanarak eğitilmiş olan makine öğrenmesi algoritmalarıyla işlenir. Bu algoritmalar, geçmiş veri setlerini analiz eder ve optimal sulama zamanını, süresini ve miktarını belirlemek için karmaşık bir model oluşturur. Bu model doğrultusunda sulama işlemleri otomatik hale gelir.
 
 <div align="center">
   <img  src="https://github.com/TKN-YZM/SulamaML/blob/main/czm.jpg" alt="Proje Çizim">
