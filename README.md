@@ -6,7 +6,9 @@ Ayrıca, makine öğrenmesi algoritmaları kullanılarak sistem akıllı hale ge
 
 ## Teknolojiler ve Araçlar:
 -Python / Makine Öğrenmesi Algoritmaları / Hava Durumu Raporları (Beatifulsoup kütüphanesi ile)
+
 -Arduino / DHT11 Nem Ve Sıcaklık Sensörü / Röle (5V) / 12V Su Valfi / Toprak nem sensörü
+
 -Veri Tabanı (SQL)
 
 ## Projenin çalışma mantığı
