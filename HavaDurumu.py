@@ -43,5 +43,3 @@ def Hava(intadata,sehir):
 
     else:
         return ""
-
-print(Hava(2,"Konya"))
