@@ -1,6 +1,6 @@
 # Yenilenebilir Enerji ve IoT ile Akıllı Sistem
 
-Bu proje, yenilenebilir enerji kaynakları kullanılarak oluşturulmuş ve IoT ile entegre edilmiş akıllı bir sistemdir. Proje, eş zamanlı hava raporu takibi, toprak nem ve ortam sıcaklık takibi gibi çeşitli sensörler aracılığıyla çevresel verileri toplar ve bu verileri analiz ederek enerji verimliliğini optimize eder.
+Bu proje, yenilenebilir enerji kaynakları kullanılarak oluşturulmuş ve IoT ile entegre edilmiş akıllı bir sistemdir. Proje, eş zamanlı hava raporu takibi, toprak nem ve ortam sıcaklık takibi gibi çeşitli sensörler aracılığıyla çevresel verileri toplar ve bu verileri analiz ederek enerji ve sulama verimliliğini optimize eder.
 
 Ayrıca, makine öğrenmesi algoritmaları kullanılarak sistem akıllı hale getirilmiştir. Bu algoritmalar, toplanan verilere dayanarak sistem performansını sürekli olarak iyileştirmek için kullanılır.
 
